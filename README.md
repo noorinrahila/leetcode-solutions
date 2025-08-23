@@ -1,16 +1,35 @@
-# leetcode-solutions
-# My LeetCode Solutions
+# Hi, I'm Noorin 👋  
 
-This repository contains my solutions to LeetCode problems in **Python (DSA)** and **SQL**.  
-My LeetCode profile: [https://leetcode.com/u/Iv0oSJDN2k/](https://leetcode.com/u/Iv0oSJDN2k/)
+I'm a B.Tech CSE graduate diving back into **software development** and **machine learning**, while sharpening my problem-solving skills on LeetCode.
 
-## Solutions
+---
 
-### Data Structures & Algorithms
-- [Two Sum](arrays/two_sum.py) – [Problem link](https://leetcode.com/problems/two-sum/)
-- [Valid Parentheses](stack/valid_parentheses.py) – [Problem link](https://leetcode.com/problems/valid-parentheses/)
+## 🏆 Progress Tracker
+- **Total Problems Solved:** 8 (updating daily)
+- **Languages Used:** Python, SQL  
+- **Goal:** Solve at least *1 problem per day* consistently.
 
-### SQL
-- [Combine Two Tables](sql/combine_two_tables.sql) – [Problem link](https://leetcode.com/problems/combine-two-tables/)
-- [Second Highest Salary](sql/second_highest_salary.sql) – [Problem link](https://leetcode.com/problems/second-highest-salary/)
+---
+
+## ✨ Topics Covered
+- Arrays
+- Strings  
+- Stack  
+- SQL  
+- (More to come...)
+
+---
+
+## 🔗 Profile
+- **LeetCode Profile:** [Your Username](https://leetcode.com/u/Iv0oSJDN2k/)
+- **GitHub Profile:** [Your GitHub](https://github.com/noorinrahila)
+
+---
+
+## 🚀 About Me
+I’m currently improving my **problem-solving skills** and documenting my learning journey to strengthen my programming foundations for software development and ML projects.
+
+---
+
+
 
