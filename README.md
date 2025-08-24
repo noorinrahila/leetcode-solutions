@@ -10,6 +10,12 @@ I'm a B.Tech CSE graduate diving back into **software development** and **machin
 - **Goal:** Solve at least *1 problem per day* consistently.
 
 ---
+# 🚀 LeetCode Solutions
+
+This repository contains my daily LeetCode solutions in **Python**.  
+I’m solving problems to strengthen my **Data Structures & Algorithms (DSA)** skills.
+
+---
 
 ## ✨ Topics Covered
 - Arrays
@@ -17,6 +23,13 @@ I'm a B.Tech CSE graduate diving back into **software development** and **machin
 - Stack  
 - SQL  
 - (More to come...)
+
+---
+## 📂 Repo Structure
+- `arrays/` – Array problems
+- `strings/` – String problems
+- `sql/` – SQL practice
+- (More coming soon!)
 
 ---
 
@@ -30,6 +43,12 @@ I'm a B.Tech CSE graduate diving back into **software development** and **machin
 I’m currently improving my **problem-solving skills** and documenting my learning journey to strengthen my programming foundations for software development and ML projects.
 
 ---
+### 📝 How to use this repo
+1. Navigate to a folder by topic.  
+2. Open any `.py` or `.sql` file to view the solution.  
 
+---
+
+_If you’re also solving LeetCode, let’s connect! 🚀
 
 
